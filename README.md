@@ -26,10 +26,12 @@ Data Collection and Preprocessing:
 
 ● Dataset Acquisition: Gather a diverse dataset comprising text
 samples from various online platforms using web scraping or
-publicly available datasets.
+publicly available datasets.  
+
 ● Data Preprocessing with Pandas: Utilize Pandas for data
 preprocessing tasks such as loading the dataset, handling missing
-values, and performing exploratory data analysis.
+values, and performing exploratory data analysis.  
+
 ● Text Preprocessing with Snowball Stemmer: Apply the
 Snowball Stemmer algorithm to preprocess text data by
 tokenization, stemming, removing stopwords, and converting text
@@ -38,10 +40,12 @@ to lowercase.
 Model Selection and Training:  
 
 ● Train-Test Split with Pandas: Split the dataset into training and
-testing sets using Pandas to facilitate model evaluation.
+testing sets using Pandas to facilitate model evaluation.  
+
 ● Training Machine Learning Models: Train various machine
 learning models such as Logistic Regression, Support Vector
-Machines, or Random Forests using the training data.
+Machines, or Random Forests using the training data.  
+
 ● Model Evaluation using Cross-Validation: Perform k-fold
 cross-validation using NumPy to evaluate model performance and
 ensure robustness.  
